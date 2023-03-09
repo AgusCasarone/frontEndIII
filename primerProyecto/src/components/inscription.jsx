@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Input } from "./components/Input";
+import { input } from "./input";
 
 export const Inscription = () => {
   const [formValues, setFormValues] = useState({ name: "", instrument: "" });
@@ -72,3 +72,5 @@ export const Inscription = () => {
     </>
   );
 };
+
+export default Inscription;

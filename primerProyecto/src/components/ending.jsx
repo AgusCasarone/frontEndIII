@@ -1,4 +1,6 @@
-export const footer = () => {
+
+
+export const ending = () => {
     return (
         <footer>
             <div className="container">
@@ -56,3 +58,5 @@ export const footer = () => {
         </footer>
     )
 }
+
+export default ending;

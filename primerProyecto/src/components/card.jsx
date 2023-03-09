@@ -8,3 +8,5 @@ export const Card = ({ name, instrument }) => {
         </div>
     );
 }
+
+export default Card;
