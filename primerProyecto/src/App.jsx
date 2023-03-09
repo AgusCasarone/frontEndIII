@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-    <h1>¡Clases de música!</h1>
+      <h1>¡Clases de música!</h1>
       <div className="container">
         <div className="row">
           <div className="col-md-6">
@@ -25,7 +25,7 @@ function App() {
           <Ending/>
         </div>
       </div>
-      </>
+    </>
   )
 }
 

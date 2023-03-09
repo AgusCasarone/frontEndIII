@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { React } from "react";
 import { input } from "./input";
 
 export const Inscription = () => {

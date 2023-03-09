@@ -1,3 +1,5 @@
+import { React } from "react";
+
 export const Input = ({ forHtml, text, type, name, onChange }) => {
   return (
     <label htmlFor={forHtml}>
